@@ -1,0 +1,210 @@
+district,crop,season,sum_insured_per_hectare,actuarial_rate_percent,farmer_share_percent,total_premium,farmer_premium,govt_premium
+Ahmadnagar,Acid Lime,Kharif,70000.0,39.0,5.0,27300.0,3500.0,23800.0
+Ahmadnagar,Guava,Kharif,60000.0,5.0,5.0,3000.0,3000.0,0.0
+Ahmadnagar,Mosambi (sweet lime),Kharif,80000.0,39.29,5.0,31432.0,4000.0,27432.0
+Ahmadnagar,Orange,Kharif,80000.0,36.62,5.0,29296.0,4000.0,25296.0
+Ahmadnagar,Pomegranate,Kharif,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Ahmadnagar,Sapota,Kharif,60000.0,10.0,5.0,6000.0,3000.0,3000.0
+Akola,Acid Lime,Kharif,70000.0,33.0,5.0,23100.0,3500.0,19600.0
+Akola,Mosambi (sweet lime),Kharif,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Akola,Orange,Kharif,80000.0,35.0,5.0,28000.0,4000.0,24000.0
+Amravati,Acid Lime,Kharif,70000.0,30.37,5.0,21259.0,3500.0,17759.0
+Amravati,Mosambi (sweet lime),Kharif,80000.0,19.82,5.0,15856.0,4000.0,11856.0
+Amravati,Orange,Kharif,80000.0,19.4,5.0,15520.0,4000.0,11520.0
+Amravati,Pomegranate,Kharif,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Aurangabad,Acid Lime,Kharif,70000.0,40.0,5.0,28000.0,3500.0,24500.0
+Aurangabad,Guava,Kharif,60000.0,20.0,5.0,12000.0,3000.0,9000.0
+Aurangabad,Mosambi (sweet lime),Kharif,80000.0,13.5,5.0,10800.0,4000.0,6800.0
+Aurangabad,Pomegranate,Kharif,130000.0,10.0,5.0,13000.0,6500.0,6500.0
+Aurangabad,Sapota,Kharif,60000.0,15.0,5.0,9000.0,3000.0,6000.0
+Bid,Acid Lime,Kharif,70000.0,53.0,5.0,37100.0,3500.0,33600.0
+Bid,Mosambi (sweet lime),Kharif,80000.0,40.0,5.0,32000.0,4000.0,28000.0
+Bid,Orange,Kharif,80000.0,55.0,5.0,44000.0,4000.0,40000.0
+Bid,Pomegranate,Kharif,130000.0,15.0,5.0,19500.0,6500.0,13000.0
+Bid,Sapota,Kharif,60000.0,15.0,5.0,9000.0,3000.0,6000.0
+Buldana,Acid Lime,Kharif,70000.0,38.4,5.0,26880.0,3500.0,23380.0
+Buldana,Guava,Kharif,60000.0,16.0,5.0,9600.0,3000.0,6600.0
+Buldana,Mosambi (sweet lime),Kharif,80000.0,17.6,5.0,14080.0,4000.0,10080.0
+Buldana,Orange,Kharif,80000.0,46.4,5.0,37120.0,4000.0,33120.0
+Buldana,Pomegranate,Kharif,130000.0,16.0,5.0,20800.0,6500.0,14300.0
+Dhule,Acid Lime,Kharif,70000.0,46.35,5.0,32445.0,3500.0,28945.0
+Dhule,Mosambi (sweet lime),Kharif,80000.0,15.0,5.0,12000.0,4000.0,8000.0
+Dhule,Pomegranate,Kharif,130000.0,15.0,5.0,19500.0,6500.0,13000.0
+Hingoli,Mosambi (sweet lime),Kharif,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Hingoli,Orange,Kharif,80000.0,30.0,5.0,24000.0,4000.0,20000.0
+Jalgaon,Acid Lime,Kharif,70000.0,38.4,5.0,26880.0,3500.0,23380.0
+Jalgaon,Guava,Kharif,60000.0,16.0,5.0,9600.0,3000.0,6600.0
+Jalgaon,Mosambi (sweet lime),Kharif,80000.0,16.0,5.0,12800.0,4000.0,8800.0
+Jalgaon,Pomegranate,Kharif,130000.0,16.0,5.0,20800.0,6500.0,14300.0
+Jalgaon,Sapota,Kharif,60000.0,16.0,5.0,9600.0,3000.0,6600.0
+Jalna,Acid Lime,Kharif,70000.0,43.5,5.0,30450.0,3500.0,26950.0
+Jalna,Guava,Kharif,60000.0,5.0,5.0,3000.0,3000.0,0.0
+Jalna,Mosambi (sweet lime),Kharif,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Jalna,Orange,Kharif,80000.0,29.3,5.0,23440.0,4000.0,19440.0
+Jalna,Pomegranate,Kharif,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Jalna,Sapota,Kharif,60000.0,10.0,5.0,6000.0,3000.0,3000.0
+Latur,Acid Lime,Kharif,70000.0,42.0,5.0,29400.0,3500.0,25900.0
+Latur,Pomegranate,Kharif,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Nagpur,Mosambi (sweet lime),Kharif,80000.0,15.0,5.0,12000.0,4000.0,8000.0
+Nagpur,Orange,Kharif,80000.0,11.0,5.0,8800.0,4000.0,4800.0
+Nanded,Acid Lime,Kharif,70000.0,32.0,5.0,22400.0,3500.0,18900.0
+Nanded,Mosambi (sweet lime),Kharif,80000.0,28.8,5.0,23040.0,4000.0,19040.0
+Nashik,Acid Lime,Kharif,70000.0,42.05,5.0,29435.0,3500.0,25935.0
+Nashik,Guava,Kharif,60000.0,5.0,5.0,3000.0,3000.0,0.0
+Nashik,Pomegranate,Kharif,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Nashik,Sapota,Kharif,60000.0,10.0,5.0,6000.0,3000.0,3000.0
+Osmanabad,Acid Lime,Kharif,70000.0,49.5,5.0,34650.0,3500.0,31150.0
+Osmanabad,Mosambi (sweet lime),Kharif,80000.0,38.4,5.0,30720.0,4000.0,26720.0
+Osmanabad,Pomegranate,Kharif,130000.0,16.0,5.0,20800.0,6500.0,14300.0
+Osmanabad,Sapota,Kharif,60000.0,16.0,5.0,9600.0,3000.0,6600.0
+Palghar,Sapota,Kharif,60000.0,25.0,5.0,15000.0,3000.0,12000.0
+Parbhani,Acid Lime,Kharif,70000.0,43.5,5.0,30450.0,3500.0,26950.0
+Parbhani,Guava,Kharif,60000.0,5.0,5.0,3000.0,3000.0,0.0
+Parbhani,Mosambi (sweet lime),Kharif,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Parbhani,Orange,Kharif,80000.0,36.62,5.0,29296.0,4000.0,25296.0
+Parbhani,Pomegranate,Kharif,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Parbhani,Sapota,Kharif,60000.0,10.0,5.0,6000.0,3000.0,3000.0
+Pune,Acid Lime,Kharif,70000.0,49.5,5.0,34650.0,3500.0,31150.0
+Pune,Guava,Kharif,60000.0,16.0,5.0,9600.0,3000.0,6600.0
+Pune,Mosambi (sweet lime),Kharif,80000.0,33.6,5.0,26880.0,4000.0,22880.0
+Pune,Orange,Kharif,80000.0,49.5,5.0,39600.0,4000.0,35600.0
+Pune,Pomegranate,Kharif,130000.0,16.0,5.0,20800.0,6500.0,14300.0
+Pune,Sapota,Kharif,60000.0,16.0,5.0,9600.0,3000.0,6600.0
+Sangli,Acid Lime,Kharif,70000.0,45.0,5.0,31500.0,3500.0,28000.0
+Sangli,Guava,Kharif,60000.0,20.0,5.0,12000.0,3000.0,9000.0
+Sangli,Pomegranate,Kharif,130000.0,11.8,5.0,15340.0,6500.0,8840.0
+Satara,Pomegranate,Kharif,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Solapur,Acid Lime,Kharif,70000.0,49.8,5.0,34860.0,3500.0,31360.0
+Solapur,Guava,Kharif,60000.0,10.0,5.0,6000.0,3000.0,3000.0
+Solapur,Mosambi (sweet lime),Kharif,80000.0,47.27,5.0,37816.0,4000.0,33816.0
+Solapur,Pomegranate,Kharif,130000.0,10.0,5.0,13000.0,6500.0,6500.0
+Solapur,Sapota,Kharif,60000.0,25.0,5.0,15000.0,3000.0,12000.0
+Thane,Sapota,Kharif,60000.0,65.0,5.0,39000.0,3000.0,36000.0
+Wardha,Acid Lime,Kharif,70000.0,15.0,5.0,10500.0,3500.0,7000.0
+Wardha,Mosambi (sweet lime),Kharif,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Wardha,Orange,Kharif,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Washim,Acid Lime,Kharif,70000.0,31.37,5.0,21959.0,3500.0,18459.0
+Washim,Orange,Kharif,80000.0,27.65,5.0,22120.0,4000.0,18120.0
+Washim,Pomegranate,Kharif,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Yavatmal,Mosambi (sweet lime),Kharif,80000.0,19.82,5.0,15856.0,4000.0,11856.0
+Yavatmal,Orange,Kharif,80000.0,21.34,5.0,17072.0,4000.0,13072.0
+Ahmadnagar,Banana - Tissue Culture,Rabi,140000.0,30.0,5.0,42000.0,7000.0,35000.0
+Ahmadnagar,Grape,Rabi,320000.0,24.2,5.0,77440.0,16000.0,61440.0
+Ahmadnagar,Mango,Rabi,140000.0,15.0,5.0,21000.0,7000.0,14000.0
+Ahmadnagar,Mosambi (sweet orange),Rabi,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Ahmadnagar,Orange,Rabi,80000.0,15.0,5.0,12000.0,4000.0,8000.0
+Ahmadnagar,Pomegranate,Rabi,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Akola,Banana - Tissue Culture,Rabi,140000.0,25.0,5.0,35000.0,7000.0,28000.0
+Akola,Mosambi (sweet orange),Rabi,80000.0,40.0,5.0,32000.0,4000.0,28000.0
+Akola,Orange,Rabi,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Akola,Pomegranate,Rabi,130000.0,20.0,5.0,26000.0,6500.0,19500.0
+Amravati,Banana - Tissue Culture,Rabi,140000.0,27.5,5.0,38500.0,7000.0,31500.0
+Amravati,Mosambi (sweet orange),Rabi,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Amravati,Orange,Rabi,80000.0,5.0,5.0,4000.0,4000.0,0.0
+Aurangabad,Banana - Tissue Culture,Rabi,140000.0,22.0,5.0,30800.0,7000.0,23800.0
+Aurangabad,Grape,Rabi,320000.0,30.0,5.0,96000.0,16000.0,80000.0
+Aurangabad,Mango,Rabi,140000.0,29.5,5.0,41300.0,7000.0,34300.0
+Aurangabad,Mosambi (sweet orange),Rabi,80000.0,33.0,5.0,26400.0,4000.0,22400.0
+Aurangabad,Pomegranate,Rabi,130000.0,15.0,5.0,19500.0,6500.0,13000.0
+Bid,Banana - Tissue Culture,Rabi,140000.0,22.0,5.0,30800.0,7000.0,23800.0
+Bid,Grape,Rabi,320000.0,30.0,5.0,96000.0,16000.0,80000.0
+Bid,Mango,Rabi,140000.0,35.0,5.0,49000.0,7000.0,42000.0
+Bid,Mosambi (sweet orange),Rabi,80000.0,40.0,5.0,32000.0,4000.0,28000.0
+Bid,Orange,Rabi,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Bid,Pomegranate,Rabi,130000.0,15.0,5.0,19500.0,6500.0,13000.0
+Buldana,Banana - Tissue Culture,Rabi,140000.0,17.6,5.0,24640.0,7000.0,17640.0
+Buldana,Grape,Rabi,320000.0,38.4,5.0,122880.0,16000.0,106880.0
+Buldana,Mango,Rabi,140000.0,32.0,5.0,44800.0,7000.0,37800.0
+Buldana,Mosambi (sweet orange),Rabi,80000.0,49.5,5.0,39600.0,4000.0,35600.0
+Buldana,Orange,Rabi,80000.0,16.0,5.0,12800.0,4000.0,8800.0
+Buldana,Pomegranate,Rabi,130000.0,16.0,5.0,20800.0,6500.0,14300.0
+Dhule,Banana - Tissue Culture,Rabi,140000.0,24.59,5.0,34426.0,7000.0,27426.0
+Dhule,Grape,Rabi,320000.0,15.0,5.0,48000.0,16000.0,32000.0
+Dhule,Mango,Rabi,140000.0,23.11,5.0,32354.0,7000.0,25354.0
+Dhule,Mosambi (sweet orange),Rabi,80000.0,32.24,5.0,25792.0,4000.0,21792.0
+Dhule,Pomegranate,Rabi,130000.0,25.0,5.0,32500.0,6500.0,26000.0
+Hingoli,Banana - Tissue Culture,Rabi,140000.0,23.0,5.0,32200.0,7000.0,25200.0
+Hingoli,Mosambi (sweet orange),Rabi,80000.0,30.0,5.0,24000.0,4000.0,20000.0
+Hingoli,Orange,Rabi,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Hingoli,Pomegranate,Rabi,130000.0,20.0,5.0,26000.0,6500.0,19500.0
+Jalgaon,Banana - Tissue Culture,Rabi,140000.0,20.8,5.0,29120.0,7000.0,22120.0
+Jalgaon,Mango,Rabi,140000.0,44.8,5.0,62720.0,7000.0,55720.0
+Jalgaon,Mosambi (sweet orange),Rabi,80000.0,49.5,5.0,39600.0,4000.0,35600.0
+Jalgaon,Pomegranate,Rabi,130000.0,16.0,5.0,20800.0,6500.0,14300.0
+Jalna,Banana - Tissue Culture,Rabi,140000.0,30.0,5.0,42000.0,7000.0,35000.0
+Jalna,Grape,Rabi,320000.0,24.2,5.0,77440.0,16000.0,61440.0
+Jalna,Mango,Rabi,140000.0,12.59,5.0,17626.0,7000.0,10626.0
+Jalna,Mosambi (sweet orange),Rabi,80000.0,27.29,5.0,21832.0,4000.0,17832.0
+Jalna,Orange,Rabi,80000.0,9.12,5.0,7296.0,4000.0,3296.0
+Jalna,Pomegranate,Rabi,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Kolhapur,Banana - Tissue Culture,Rabi,140000.0,25.0,5.0,35000.0,7000.0,28000.0
+Kolhapur,Cashew,Rabi,100000.0,45.0,5.0,45000.0,5000.0,40000.0
+Kolhapur,Grape,Rabi,320000.0,25.0,5.0,80000.0,16000.0,64000.0
+Kolhapur,Mango,Rabi,140000.0,25.0,5.0,35000.0,7000.0,28000.0
+Latur,Banana - Tissue Culture,Rabi,140000.0,30.0,5.0,42000.0,7000.0,35000.0
+Latur,Grape,Rabi,320000.0,24.2,5.0,77440.0,16000.0,61440.0
+Latur,Mango,Rabi,140000.0,25.0,5.0,35000.0,7000.0,28000.0
+Latur,Pomegranate,Rabi,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Nagpur,Mosambi (sweet orange),Rabi,80000.0,33.36,5.0,26688.0,4000.0,22688.0
+Nagpur,Orange,Rabi,80000.0,25.0,5.0,20000.0,4000.0,16000.0
+Nanded,Banana - Tissue Culture,Rabi,140000.0,17.6,5.0,24640.0,7000.0,17640.0
+Nanded,Grape,Rabi,320000.0,35.2,5.0,112640.0,16000.0,96640.0
+Nanded,Mango,Rabi,140000.0,32.0,5.0,44800.0,7000.0,37800.0
+Nanded,Mosambi (sweet orange),Rabi,80000.0,49.5,5.0,39600.0,4000.0,35600.0
+Nandurbar,Banana - Tissue Culture,Rabi,140000.0,25.0,5.0,35000.0,7000.0,28000.0
+Nandurbar,Mango,Rabi,140000.0,25.0,5.0,35000.0,7000.0,28000.0
+Nashik,Cashew,Rabi,100000.0,45.0,5.0,45000.0,5000.0,40000.0
+Nashik,Grape,Rabi,320000.0,25.21,5.0,80672.0,16000.0,64672.0
+Nashik,Mango,Rabi,140000.0,25.0,5.0,35000.0,7000.0,28000.0
+Nashik,Pomegranate,Rabi,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Osmanabad,Banana - Tissue Culture,Rabi,140000.0,16.0,5.0,22400.0,7000.0,15400.0
+Osmanabad,Grape,Rabi,320000.0,33.6,5.0,107520.0,16000.0,91520.0
+Osmanabad,Mango,Rabi,140000.0,25.6,5.0,35840.0,7000.0,28840.0
+Osmanabad,Mosambi (sweet orange),Rabi,80000.0,49.5,5.0,39600.0,4000.0,35600.0
+Osmanabad,Pomegranate,Rabi,130000.0,16.0,5.0,20800.0,6500.0,14300.0
+Palghar,Banana - Tissue Culture,Rabi,140000.0,23.81,5.0,33334.0,7000.0,26334.0
+Palghar,Cashew,Rabi,100000.0,20.0,5.0,20000.0,5000.0,15000.0
+Palghar,Mango,Rabi,140000.0,30.0,5.0,42000.0,7000.0,35000.0
+Parbhani,Banana - Tissue Culture,Rabi,140000.0,30.0,5.0,42000.0,7000.0,35000.0
+Parbhani,Mango,Rabi,140000.0,15.0,5.0,21000.0,7000.0,14000.0
+Parbhani,Mosambi (sweet orange),Rabi,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Parbhani,Orange,Rabi,80000.0,12.0,5.0,9600.0,4000.0,5600.0
+Parbhani,Pomegranate,Rabi,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Pune,Banana - Tissue Culture,Rabi,140000.0,16.0,5.0,22400.0,7000.0,15400.0
+Pune,Grape,Rabi,320000.0,28.8,5.0,92160.0,16000.0,76160.0
+Pune,Mango,Rabi,140000.0,36.8,5.0,51520.0,7000.0,44520.0
+Pune,Mosambi (sweet orange),Rabi,80000.0,36.8,5.0,29440.0,4000.0,25440.0
+Pune,Orange,Rabi,80000.0,16.0,5.0,12800.0,4000.0,8800.0
+Pune,Pomegranate,Rabi,130000.0,16.0,5.0,20800.0,6500.0,14300.0
+Raigarh,Cashew,Rabi,100000.0,49.5,5.0,49500.0,5000.0,44500.0
+Raigarh,Mango,Rabi,140000.0,44.8,5.0,62720.0,7000.0,55720.0
+Ratnagiri,Banana - Tissue Culture,Rabi,140000.0,23.44,5.0,32816.0,7000.0,25816.0
+Ratnagiri,Cashew,Rabi,100000.0,25.0,5.0,25000.0,5000.0,20000.0
+Ratnagiri,Mango,Rabi,140000.0,41.66,5.0,58324.0,7000.0,51324.0
+Sangli,Banana - Tissue Culture,Rabi,140000.0,22.0,5.0,30800.0,7000.0,23800.0
+Sangli,Grape,Rabi,320000.0,10.5,5.0,33600.0,16000.0,17600.0
+Sangli,Mango,Rabi,140000.0,25.0,5.0,35000.0,7000.0,28000.0
+Sangli,Pomegranate,Rabi,130000.0,15.0,5.0,19500.0,6500.0,13000.0
+Satara,Banana - Tissue Culture,Rabi,140000.0,25.0,5.0,35000.0,7000.0,28000.0
+Satara,Grape,Rabi,320000.0,24.2,5.0,77440.0,16000.0,61440.0
+Satara,Pomegranate,Rabi,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Satara,Strawberry,Rabi,200000.0,53.0,5.0,106000.0,10000.0,96000.0
+Sindhudurg,Banana - Tissue Culture,Rabi,140000.0,25.0,5.0,35000.0,7000.0,28000.0
+Sindhudurg,Cashew,Rabi,100000.0,20.0,5.0,20000.0,5000.0,15000.0
+Sindhudurg,Mango,Rabi,140000.0,35.0,5.0,49000.0,7000.0,42000.0
+Solapur,Banana - Tissue Culture,Rabi,140000.0,24.19,5.0,33866.0,7000.0,26866.0
+Solapur,Grape,Rabi,320000.0,15.0,5.0,48000.0,16000.0,32000.0
+Solapur,Mango,Rabi,140000.0,22.56,5.0,31584.0,7000.0,24584.0
+Solapur,Mosambi (sweet orange),Rabi,80000.0,33.81,5.0,27048.0,4000.0,23048.0
+Solapur,Pomegranate,Rabi,130000.0,18.0,5.0,23400.0,6500.0,16900.0
+Thane,Banana - Tissue Culture,Rabi,140000.0,22.0,5.0,30800.0,7000.0,23800.0
+Thane,Cashew,Rabi,100000.0,40.0,5.0,40000.0,5000.0,35000.0
+Thane,Mango,Rabi,140000.0,30.0,5.0,42000.0,7000.0,35000.0
+Wardha,Banana - Tissue Culture,Rabi,140000.0,22.0,5.0,30800.0,7000.0,23800.0
+Wardha,Mosambi (sweet orange),Rabi,80000.0,25.0,5.0,20000.0,4000.0,16000.0
+Wardha,Orange,Rabi,80000.0,20.0,5.0,16000.0,4000.0,12000.0
+Washim,Mango,Rabi,140000.0,15.0,5.0,21000.0,7000.0,14000.0
+Washim,Orange,Rabi,80000.0,15.0,5.0,12000.0,4000.0,8000.0
+Washim,Pomegranate,Rabi,130000.0,5.0,5.0,6500.0,6500.0,0.0
+Yavatmal,Banana - Tissue Culture,Rabi,140000.0,27.5,5.0,38500.0,7000.0,31500.0
+Yavatmal,Orange,Rabi,80000.0,15.0,5.0,12000.0,4000.0,8000.0
