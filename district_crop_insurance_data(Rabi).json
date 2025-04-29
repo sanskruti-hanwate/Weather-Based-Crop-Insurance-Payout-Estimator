@@ -1,0 +1,782 @@
+{
+  "Ahmadnagar": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "30",
+      "govt_premium": "35000"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "24.2",
+      "govt_premium": "61440"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "14000"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "8000"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    }
+  },
+  "Akola": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "28000"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "40",
+      "govt_premium": "28000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "19500"
+    }
+  },
+  "Amravati": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "27.5",
+      "govt_premium": "31500"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    }
+  },
+  "Aurangabad": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "22",
+      "govt_premium": "23800"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "30",
+      "govt_premium": "80000"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "29.5",
+      "govt_premium": "34300"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "33",
+      "govt_premium": "22400"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "13000"
+    }
+  },
+  "Bid": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "22",
+      "govt_premium": "23800"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "30",
+      "govt_premium": "80000"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "35",
+      "govt_premium": "42000"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "40",
+      "govt_premium": "28000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "13000"
+    }
+  },
+  "Buldana": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "17.6",
+      "govt_premium": "17640"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "38.4",
+      "govt_premium": "106880"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "32",
+      "govt_premium": "37800"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "49.5",
+      "govt_premium": "35600"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "8800"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "14300"
+    }
+  },
+  "Dhule": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "24.59",
+      "govt_premium": "27426"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "32000"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "23.11",
+      "govt_premium": "25354"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "32.24",
+      "govt_premium": "21792"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "26000"
+    }
+  },
+  "Hingoli": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "23",
+      "govt_premium": "25200"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "30",
+      "govt_premium": "20000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "19500"
+    }
+  },
+  "Jalgaon": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20.8",
+      "govt_premium": "22120"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "44.8",
+      "govt_premium": "55720"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "49.5",
+      "govt_premium": "35600"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "14300"
+    }
+  },
+  "Jalna": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "30",
+      "govt_premium": "35000"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "24.2",
+      "govt_premium": "61440"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "12.59",
+      "govt_premium": "10626"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "27.29",
+      "govt_premium": "17832"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "9.12",
+      "govt_premium": "3296"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    }
+  },
+  "Kolhapur": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "28000"
+    },
+    "Cashew": {
+      "sum_insured_per_hectare": "100000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "45",
+      "govt_premium": "40000"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "64000"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "28000"
+    }
+  },
+  "Latur": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "30",
+      "govt_premium": "35000"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "24.2",
+      "govt_premium": "61440"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "28000"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    }
+  },
+  "Nagpur": {
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "33.36",
+      "govt_premium": "22688"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "16000"
+    }
+  },
+  "Nanded": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "17.6",
+      "govt_premium": "17640"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "35.2",
+      "govt_premium": "96640"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "32",
+      "govt_premium": "37800"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "49.5",
+      "govt_premium": "35600"
+    }
+  },
+  "Nandurbar": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "28000"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "28000"
+    }
+  },
+  "Nashik": {
+    "Cashew": {
+      "sum_insured_per_hectare": "100000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "45",
+      "govt_premium": "40000"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25.21",
+      "govt_premium": "64672"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "28000"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    }
+  },
+  "Osmanabad": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "15400"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "33.6",
+      "govt_premium": "91520"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25.6",
+      "govt_premium": "28840"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "49.5",
+      "govt_premium": "35600"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "14300"
+    }
+  },
+  "Palghar": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "23.81",
+      "govt_premium": "26334"
+    },
+    "Cashew": {
+      "sum_insured_per_hectare": "100000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "15000"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "30",
+      "govt_premium": "35000"
+    }
+  },
+  "Parbhani": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "30",
+      "govt_premium": "35000"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "14000"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "12",
+      "govt_premium": "5600"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    }
+  },
+  "Pune": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "15400"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "28.8",
+      "govt_premium": "76160"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "36.8",
+      "govt_premium": "44520"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "36.8",
+      "govt_premium": "25440"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "8800"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "14300"
+    }
+  },
+  "Raigarh": {
+    "Cashew": {
+      "sum_insured_per_hectare": "100000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "49.5",
+      "govt_premium": "44500"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "44.8",
+      "govt_premium": "55720"
+    }
+  },
+  "Ratnagiri": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "23.44",
+      "govt_premium": "25816"
+    },
+    "Cashew": {
+      "sum_insured_per_hectare": "100000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "20000"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "41.66",
+      "govt_premium": "51324"
+    }
+  },
+  "Sangli": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "22",
+      "govt_premium": "23800"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "10.5",
+      "govt_premium": "17600"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "28000"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "13000"
+    }
+  },
+  "Satara": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "28000"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "24.2",
+      "govt_premium": "61440"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    },
+    "Strawberry": {
+      "sum_insured_per_hectare": "200000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "53",
+      "govt_premium": "96000"
+    }
+  },
+  "Sindhudurg": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "28000"
+    },
+    "Cashew": {
+      "sum_insured_per_hectare": "100000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "15000"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "35",
+      "govt_premium": "42000"
+    }
+  },
+  "Solapur": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "24.19",
+      "govt_premium": "26866"
+    },
+    "Grape": {
+      "sum_insured_per_hectare": "320000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "32000"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "22.56",
+      "govt_premium": "24584"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "33.81",
+      "govt_premium": "23048"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "18",
+      "govt_premium": "16900"
+    }
+  },
+  "Thane": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "22",
+      "govt_premium": "23800"
+    },
+    "Cashew": {
+      "sum_insured_per_hectare": "100000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "40",
+      "govt_premium": "35000"
+    },
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "30",
+      "govt_premium": "35000"
+    }
+  },
+  "Wardha": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "22",
+      "govt_premium": "23800"
+    },
+    "Mosambi (sweet orange)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "16000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    }
+  },
+  "Washim": {
+    "Mango": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "14000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "8000"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    }
+  },
+  "Yavatmal": {
+    "Banana - Tissue Culture": {
+      "sum_insured_per_hectare": "140000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "27.5",
+      "govt_premium": "31500"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "8000"
+    }
+  }
+}

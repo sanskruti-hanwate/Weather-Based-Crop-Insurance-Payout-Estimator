@@ -1,0 +1,26 @@
+ Extracted Decision Tree Rules (Trigger Classifier)
+
+|--- RAINFALL_DEFICIT <= 20.02
+|   |--- TEMP_RISE <= 1.99
+|   |   |--- HUMIDITY_DEFICIT <= 15.93
+|   |   |   |--- WIND_EXCESS <= 0.98
+|   |   |   |   |--- class: 0
+|   |   |   |--- WIND_EXCESS >  0.98
+|   |   |   |   |--- class: 1
+|   |   |--- HUMIDITY_DEFICIT >  15.93
+|   |   |   |--- class: 1
+|   |--- TEMP_RISE >  1.99
+|   |   |--- class: 1
+|--- RAINFALL_DEFICIT >  20.02
+|   |--- class: 1
+
+
+If rainfall deficit is at most 20.02, and temperature rise is at most 1.99, and humidity deficit is at most 15.93, and wind excess is at most 0.98, then class = 0.
+
+If rainfall deficit is at most 20.02, and temperature rise is at most 1.99, and humidity deficit is at most 15.93, and wind excess is greater than 0.98, then class = 1.
+
+If rainfall deficit is at most 20.02, and temperature rise is at most 1.99, but humidity deficit is greater than 15.93, then class = 1.
+
+If rainfall deficit is at most 20.02, but temperature rise is greater than 1.99, then class = 1.
+
+If rainfall deficit is greater than 20.02, then class = 1.

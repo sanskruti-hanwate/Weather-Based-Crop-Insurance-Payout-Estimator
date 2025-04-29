@@ -1,0 +1,586 @@
+{
+  "Ahmadnagar": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "39",
+      "govt_premium": "23800"
+    },
+    "Guava": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "39.29",
+      "govt_premium": "27432"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "36.62",
+      "govt_premium": "25296"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    },
+    "Sapota": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "10",
+      "govt_premium": "3000"
+    }
+  },
+  "Akola": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "33",
+      "govt_premium": "19600"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "35",
+      "govt_premium": "24000"
+    }
+  },
+  "Amravati": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "30.37",
+      "govt_premium": "17759"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "19.82",
+      "govt_premium": "11856"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "19.4",
+      "govt_premium": "11520"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    }
+  },
+  "Aurangabad": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "40",
+      "govt_premium": "24500"
+    },
+    "Guava": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "9000"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "13.5",
+      "govt_premium": "6800"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "10",
+      "govt_premium": "6500"
+    },
+    "Sapota": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "6000"
+    }
+  },
+  "Bid": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "53",
+      "govt_premium": "33600"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "40",
+      "govt_premium": "28000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "55",
+      "govt_premium": "40000"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "13000"
+    },
+    "Sapota": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "6000"
+    }
+  },
+  "Buldana": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "38.4",
+      "govt_premium": "23380"
+    },
+    "Guava": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "6600"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "17.6",
+      "govt_premium": "10080"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "46.4",
+      "govt_premium": "33120"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "14300"
+    }
+  },
+  "Dhule": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "46.35",
+      "govt_premium": "28945"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "8000"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "13000"
+    }
+  },
+  "Hingoli": {
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "30",
+      "govt_premium": "20000"
+    }
+  },
+  "Jalgaon": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "38.4",
+      "govt_premium": "23380"
+    },
+    "Guava": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "6600"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "8800"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "14300"
+    },
+    "Sapota": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "6600"
+    }
+  },
+  "Jalna": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "43.5",
+      "govt_premium": "26950"
+    },
+    "Guava": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "29.3",
+      "govt_premium": "19440"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    },
+    "Sapota": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "10",
+      "govt_premium": "3000"
+    }
+  },
+  "Latur": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "42",
+      "govt_premium": "25900"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    }
+  },
+  "Nagpur": {
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "8000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "11",
+      "govt_premium": "4800"
+    }
+  },
+  "Nanded": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "32",
+      "govt_premium": "18900"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "28.8",
+      "govt_premium": "19040"
+    }
+  },
+  "Nashik": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "42.05",
+      "govt_premium": "25935"
+    },
+    "Guava": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    },
+    "Sapota": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "10",
+      "govt_premium": "3000"
+    }
+  },
+  "Osmanabad": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "49.5",
+      "govt_premium": "31150"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "38.4",
+      "govt_premium": "26720"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "14300"
+    },
+    "Sapota": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "6600"
+    }
+  },
+  "Palghar": {
+    "Sapota": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "12000"
+    }
+  },
+  "Parbhani": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "43.5",
+      "govt_premium": "26950"
+    },
+    "Guava": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "36.62",
+      "govt_premium": "25296"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    },
+    "Sapota": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "10",
+      "govt_premium": "3000"
+    }
+  },
+  "Pune": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "49.5",
+      "govt_premium": "31150"
+    },
+    "Guava": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "6600"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "33.6",
+      "govt_premium": "22880"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "49.5",
+      "govt_premium": "35600"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "14300"
+    },
+    "Sapota": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "16",
+      "govt_premium": "6600"
+    }
+  },
+  "Sangli": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "45",
+      "govt_premium": "28000"
+    },
+    "Guava": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "9000"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "11.8",
+      "govt_premium": "8840"
+    }
+  },
+  "Satara": {
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    }
+  },
+  "Solapur": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "49.8",
+      "govt_premium": "31360"
+    },
+    "Guava": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "10",
+      "govt_premium": "3000"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "47.27",
+      "govt_premium": "33816"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "10",
+      "govt_premium": "6500"
+    },
+    "Sapota": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "25",
+      "govt_premium": "12000"
+    }
+  },
+  "Thane": {
+    "Sapota": {
+      "sum_insured_per_hectare": "60000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "65",
+      "govt_premium": "36000"
+    }
+  },
+  "Wardha": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "15",
+      "govt_premium": "7000"
+    },
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "20",
+      "govt_premium": "12000"
+    }
+  },
+  "Washim": {
+    "Acid Lime": {
+      "sum_insured_per_hectare": "70000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "31.37",
+      "govt_premium": "18459"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "27.65",
+      "govt_premium": "18120"
+    },
+    "Pomegranate": {
+      "sum_insured_per_hectare": "130000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "5",
+      "govt_premium": "0"
+    }
+  },
+  "Yavatmal": {
+    "Mosambi (sweet lime)": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "19.82",
+      "govt_premium": "11856"
+    },
+    "Orange": {
+      "sum_insured_per_hectare": "80000",
+      "farmer_share_percent": "5",
+      "actuarial_rate_percent": "21.34",
+      "govt_premium": "13072"
+    }
+  }
+}
